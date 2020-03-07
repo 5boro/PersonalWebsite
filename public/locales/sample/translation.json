@@ -1,0 +1,216 @@
+{
+    "nav": {
+        "currentlyLooking": "",
+        "links": {
+            "1": {
+                "href": "",
+                "title": ""
+            },
+            "2": {
+                "href": "",
+                "title": ""
+            },
+            "3": {
+                "href": "",
+                "title": ""
+            },
+            "4": {
+                "href": "",
+                "title": ""
+            }
+        }
+    },
+    "entete": {
+        "1": {
+            "prelink": "",
+            "links": {
+                "1": {
+                    "href": "",
+                    "title": ""
+                }
+            },
+            "postlink": ""
+        },
+        "2": {
+            "prelink": "",
+            "links": {
+                "1": {
+                    "href": "",
+                    "title": ""
+                }
+            },
+            "postlink": "."
+        },
+        "3": {
+            "prelink": "",
+            "links": {
+                "1": {
+                    "href": "",
+                    "title": ""
+                },
+                "2": {
+                    "href": "",
+                    "title": ""
+                }
+            },
+            "postlink": ""
+        },
+        "4": {
+            "prelink": ""
+        }
+    },
+    "competences": {
+        "title": "",
+        "details": {
+            "en": {
+                "title": "",
+                "content": ""
+            },
+            "de": {
+                "title": "",
+                "content": ""
+            },
+            "webdev": {
+                "title": "",
+                "content": ""
+            },
+            "dbdev": {
+                "title": "",
+                "content": ""
+            },
+            "appdev": {
+                "title": "",
+                "content": ""
+            },
+            "devops": {
+                "title": "",
+                "content": ""
+            },
+            "project": {
+                "title": "",
+                "content": ""
+            },
+            "linux": {
+                "content": ""
+            },
+            "locomotion": {
+                "content": ""
+            }
+        }
+    },
+    "experience": {
+        "title": "",
+        "items": {
+            "projects": {
+                "title": "",
+                "links": {
+                    "1": {
+                        "href": "",
+                        "title": ""
+                    },
+                    "2": {
+                        "href": "",
+                        "title": ""
+                    }
+                },
+                "details": {
+                    "1": "",
+                    "2": "",
+                    "3": "",
+                    "4": "",
+                    "5": "",
+                    "6": ""
+                },
+                "dates": ""
+            },
+            "exo": {
+                "title": "",
+                "links": {
+                    "1": {
+                        "href": "",
+                        "title": ""
+                    }
+                },
+                "details": {
+                    "1": "",
+                    "2": "",
+                    "3": "",
+                    "4": "",
+                    "5": "",
+                    "6": "",
+                    "7": ""
+                },
+                "dates": ""
+            },
+            "griffith": {
+                "title": "",
+                "links": {
+                    "1": {
+                        "href": "",
+                        "title": ""
+                    }
+                },
+                "details": {
+                    "1": "",
+                    "2": ""
+                },
+                "detailsLinks": {
+                    "1": {
+                        "title": ""
+                    }
+                },
+                "dates": ""
+            },
+            "monabee": {
+                "title": "",
+                "links": {
+                    "1": {
+                        "href": ""
+                        "title": ""
+                    }
+                },
+                "details": {
+                    "1": "",
+                    "2": ""
+                },
+                "dates": ""
+            },
+            "icof": {
+                "title": "",
+                "links": {
+                    "1": {
+                        "href": "",
+                        "title": ""
+                    }
+                },
+                "details": {
+                    "1": "",
+                    "2": ""
+                },
+                "dates": ""
+            },
+            "mache": {
+                "title": "",
+                "links": {
+                    "1": {
+                        "href": "",
+                        "title": ""
+                    }
+                },
+                "details": {
+                    "1": "",
+                    "2": "",
+                    "3": ""
+                },
+                "dates": ""
+            }
+        }
+    },
+    "footer": {
+        "title": "",
+        "link": {
+            "title": "",
+            "href": ""
+        }
+    }
+}
